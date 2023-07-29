@@ -18,5 +18,6 @@ Do not set the Pixel Control Time setting in the Visual Settings in the Settings
 This will prevent your computer from stuttering.
 Of course, you can adjust this as you like according to the power of your system.
 
+# Download Setup
 If you want to install it using a setup you can use this link;
 https://mega.nz/file/xURRwBJL#mq5SrbNY_35VCMmNe53qoJmigBYtasTDYTlx_6vrei0
